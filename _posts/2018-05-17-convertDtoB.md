@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How to Converting Decimal digit to Binary digit
+title:      JavaProgramming Convert Decimal digit to Binary digit
 subtitle:   Java Programming
 date:       2018-05-17
 author:     Yiqing
